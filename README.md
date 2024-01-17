@@ -1,16 +1,15 @@
-### Hi there 👋
+# Enrique Tasa
 
-<!--
-**enriquetasa/enriquetasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Hello World!
 
-Here are some ideas to get you started:
+I'm Tasa.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 Professional Experience
+
+- **Senior Software Engineer - EU API Tech Lead** at Kraken Technologies
+- **Software Engineer** at ihateironing.com
+
+### 📫 Let's Connect!
+
+- LinkedIn: https://www.linkedin.com/in/enrique-tasa/
+- Email: tasa@enriquetasa.com
