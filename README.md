@@ -6,6 +6,7 @@ I'm Tasa.
 
 ### 💼 Professional Experience
 
+- **Head of Tech** at Octopus Energy España
 - **Senior Software Engineer - EU API Tech Lead** at Kraken Technologies
 - **Software Engineer** at ihateironing.com
 - **Python Engineer** at Digital Applications International
